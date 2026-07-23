@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Prateek K B</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,100:764ba2&text=Prateek%20K%20B&animation=fadeIn&fontColor=FFFFFF&fontSize=68" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Aspiring+DevOps+Engineer;AWS+Cloud;Linux;Docker;Jenkins;Terraform;CI%2FCD+Pipelines" alt="Typing SVG" />
+</p>
 
 <h3 align="center">
 🚀 Aspiring DevOps Engineer | AWS Cloud | Linux | Docker | Jenkins | Terraform
 </h3>
 
 <p align="center">
-Passionate about building scalable cloud infrastructure, automating deployments, and implementing CI/CD pipelines while continuously learning modern DevOps practices.
+Passionate about Cloud Computing, Infrastructure Automation and CI/CD Pipelines.
 </p>
 
 ---
@@ -13,7 +19,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 # 👨‍💻 About Me
 
 - 🔭 Building scalable AWS Cloud & DevOps projects
-- 🚀 Passionate about Cloud Infrastructure, Automation and CI/CD Pipelines
+- 🚀 Hands-on experience building AWS Cloud & DevOps projects
 - 💻 Skilled in AWS, Linux, Docker, Jenkins, Terraform, Git and GitHub
 - 🛠️ Familiar with Ansible, Kubernetes, Prometheus and Grafana
 - 🌐 Previously built multiple Full Stack MERN applications
@@ -24,41 +30,41 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## ☁️ Cloud
-- AWS (EC2, VPC, IAM, ALB, Auto Scaling, RDS, Route 53)
+### ☁️ Cloud
 
-## ⚙️ DevOps
-- Docker
-- Jenkins
-- Terraform
-- Ansible
-- Kubernetes 
-- Prometheus
-- Grafana
-- GitHub Actions
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
-## 💻 Operating System
-- Linux (Ubuntu)
+---
 
-## 🔧 Version Control
-- Git
-- GitHub
+### ⚙️ DevOps
 
-## 💻 Programming
-- Python
-- Bash Shell Scripting
-- JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,git,github,githubactions" />
+</p>
 
-## 🌐 Full Stack Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+**Also Familiar With:**  
+Ansible | Prometheus | Grafana
+
+---
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,js" />
+</p>
+
+---
+
+### 🌐 MERN Stack Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mongodb" />
+</p>
+
 
 ---
 
@@ -84,3 +90,12 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 💼 LinkedIn:
 **https://linkedin.com/in/prateek-k-b-034a34382**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prateek-K-B&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-K-B&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
